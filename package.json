@@ -1,0 +1,27 @@
+{
+  "name": "workout-tracker",
+  "version": "1.0.0",
+  "description": "![]()",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "expres": "^0.0.5",
+    "mongodb": "^3.5.5",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mekaleka/workout-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mekaleka/workout-tracker/issues"
+  },
+  "homepage": "https://github.com/mekaleka/workout-tracker#readme"
+}
