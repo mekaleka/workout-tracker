@@ -3,38 +3,8 @@
 ![]()
 
 ## Description
+With this app the user will be able to create daily workouts based on their specific routine. They can view and change workouts as needed and also be able to track them by name, type, weight, sets, reps, and duration of exercise. Creating this app was fun because it is something that I can use myself to track my own workouts.
 
-## Links
+## Link to deployed app:
 
-
-### TODO
-1. View workouts.
-
-2. Create workouts. 
-
-3. Track workouts.
-
-4. Log multiple exercises in a workout on a given day. 
-
-5. Track Name
-
-6. Track type
-
-7. Track weight
-
-8. Trackk sets
-
-9. Track reps 
-
-10. Track duration of exercise
-
-11. Acceptance Criteria
-When the user loads the page, they should be given the option to create a new workout, or continue with their last workout.
-
-The user should be able to:
-
-Add exercises to a previous workout plan.
-
-Add new exercises to a new workout plan.
-
-View multiple the combined weight of multiple exercises on the stats page.
+[Heroku](https://fierce-gorge-19632.herokuapp.com/?id=5e7ebb930e39f800171bb065)
