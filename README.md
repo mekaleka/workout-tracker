@@ -1,6 +1,6 @@
 # workout-tracker
 
-![Screenshot (40)](https://user-images.githubusercontent.com/58678985/77840739-9383fb00-713f-11ea-8f34-a3d3a43de4bc.png)
+![#2](https://user-images.githubusercontent.com/58678985/82692270-4a6a9780-9c14-11ea-8748-55133276d57d.png)
 
 
 ## Description
